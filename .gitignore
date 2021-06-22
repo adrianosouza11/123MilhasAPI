@@ -1,0 +1,11 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+.htaccess
+/.editorconfig
+openapi.yaml
+/swagger/exec/swagger-constants.php
+/swagger/exec/swagger-v1.php
