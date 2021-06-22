@@ -11,6 +11,7 @@ e composição foi escolhido para o desenvolvimento deste sistema. </p>
 - Lumen Framework (7.2.2) (Laravel Components ^7.0)
 - Composer >= 1.6
 - Apache 2 ou Ngnix
+- Swagger (OpenAPI) / zircote/swagger-php 
 
 ## Procedimentos para funcionamento
 
@@ -20,3 +21,7 @@ e composição foi escolhido para o desenvolvimento deste sistema. </p>
   `.htaccess`
 - Necessário especificar informações no arquivo enviroment .env
   -- No arquivo .env example deve ser renomeado para .env apenas.
+  
+## API disponível para acesso
+
+[http://api.adriano.logcomsolucoes.com.br/123milhas-api](http://api.adriano.logcomsolucoes.com.br/123milhas-api)
