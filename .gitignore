@@ -7,5 +7,4 @@ Homestead.yaml
 .htaccess
 /.editorconfig
 openapi.yaml
-/swagger/exec/swagger-constants.php
-/swagger/exec/swagger-v1.php
+
